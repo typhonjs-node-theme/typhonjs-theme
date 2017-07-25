@@ -1,2 +1,2 @@
 # typhonjs-theme
-Provides a base theme implementation.
+Provides a base CSS theme implementation for usage with `typhonjs-theme-engine`.
